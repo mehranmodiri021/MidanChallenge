@@ -1,0 +1,8 @@
+{
+  "name": "سامانه مسابقات مهارتی | Skill Challenge Arena",
+  "description": "پلتفرم مسابقات و چالش‌های مهارتی، تورنمنت‌ها و استخر جوایز با طراحی ویژه گوشی موبایل",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
